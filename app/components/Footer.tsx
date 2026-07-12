@@ -48,7 +48,7 @@ export default function Footer() {
             <div className="mt-4 space-y-3 text-sm text-slate-400">
               <p>📍 Kawempe Division, Kampala, Uganda</p>
               <p>📧 info@hkmf.org</p>
-              <p>📞 +256 XXX XXX XXX</p>
+              <p>📞 +256 701 481024</p>
             </div>
           </div>
 
