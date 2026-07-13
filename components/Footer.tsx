@@ -82,7 +82,7 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center gap-3">
               <Image
-                src="/images/hkmf-logo.png"
+                src="/images/HKMF_logo.jpeg"
                 alt="HKMF Logo"
                 width={40}
                 height={40}

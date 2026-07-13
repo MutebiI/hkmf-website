@@ -35,9 +35,9 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Navbar from "@/app/components/Navbar";
-import Footer from "@/app/components/Footer";
-import FloatingContact from "@/app/components/FloatingContact";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+import FloatingContact from "@/components/FloatingContact";
 
 const inter = Inter({ subsets: ["latin"] });
 
