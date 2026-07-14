@@ -1234,7 +1234,7 @@ export default function Home() {
               <div className="pointer-events-none absolute -right-10 -top-10 h-40 w-40 rounded-[50%_50%_40%_60%/60%_40%_50%_50%] bg-white/5" />
               <div className="pointer-events-none absolute -left-8 bottom-0 h-32 w-32 rounded-[40%_60%_50%_50%/50%_50%_60%_40%] bg-emerald-400/10" />
 
-              <h3 className="relative text-2xl font-bold">Become Our Partner</h3>
+              ....<h3 className="relative text-2xl font-bold"><span className="text-teal-400 z-100">B</span>ecome Our Partner</h3>
               <p className="relative mt-3 text-teal-100 leading-relaxed">
                 We are actively seeking international partnerships to expand our programmes 
                 and improve lives across Uganda.
@@ -1251,7 +1251,7 @@ export default function Home() {
                 href="/contact"
                 className={`relative mt-8 inline-block bg-white px-7 py-3 font-medium text-teal-700 transition hover:bg-teal-50 whitespace-nowrap ${softShapes[1]}`}
               >
-                Contact Us Today →
+                .....Contact Us Today →
               </Link>
             </div>
           </div>

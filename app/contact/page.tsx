@@ -69,7 +69,7 @@ export default function ContactPage() {
 
                 <div>
                   <h3 className="font-semibold text-slate-800">📞 Phone</h3>
-                  <p className="text-slate-600">+256 XXX XXX XXX</p>
+                  <p className="text-slate-600">+256 701 481 024</p>
                 </div>
 
                 <div>
