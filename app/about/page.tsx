@@ -1414,6 +1414,7 @@ export default function AboutPage() {
               <div className="mt-6 space-y-4 text-slate-600">
                 <p className="leading-relaxed">
                   <span className="font-semibold text-slate-800">Hon. Kyobe Muhamad</span> 
+                  <span className="font-semibold text-white">|</span> 
                   established HKMF with a clear vision: to create lasting change in communities 
                   by empowering the most vulnerable members of society.
                 </p>
