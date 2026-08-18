@@ -347,7 +347,7 @@ export default function PartnerPage() {
               {
                 number: "01",
                 title: "Reach Out",
-                description: "Contact us to express your interest in partnering with HKMF."
+                description: "Contact us to express your interest in partnering with KMF."
               },
               {
                 number: "02",
@@ -404,7 +404,7 @@ export default function PartnerPage() {
             </Link>
           </div>
           <p className="mt-6 text-sm text-teal-200">
-            📧 partnership@hkmf.org • 📞 +256 701 481 024
+            📧 partnership@kmf.org • 📞 +256 701 481 024
           </p>
         </div>
       </section>

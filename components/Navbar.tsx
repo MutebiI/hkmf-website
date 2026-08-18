@@ -129,7 +129,7 @@ export default function Navbar() {
     { name: "Programmes", href: "/programmes" },
     { name: "Partner", href: "/partner" },
     { name: "Contact", href: "/contact" },
-    { name: "Donate", href: "/donate" }
+    // { name: "Donate", href: "/donate" }
   ];
 
   return (
@@ -147,7 +147,7 @@ export default function Navbar() {
             priority
           />
           <span className="text-xl font-bold tracking-tight text-white">
-            HKMF
+            KMF
           </span>
         </Link>
 

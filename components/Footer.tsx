@@ -212,7 +212,7 @@ export default function Footer() {
     },
     { 
       name: "Facebook", 
-      href: "https://facebook.com/hkmf", 
+      href: "https://facebook.com/kmf", 
       icon: (
         <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
           <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
@@ -221,7 +221,7 @@ export default function Footer() {
     },
     { 
       name: "YouTube", 
-      href: "https://youtube.com/hkmf", 
+      href: "https://youtube.com/kmf", 
       icon: (
         <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
           <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
@@ -239,16 +239,16 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center gap-3">
               <Image
-                src="/images/HKMF_logo.jpeg"
+                src="/images/KMF_logo.jpeg"
                 alt="HKMF Logo"
                 width={40}
                 height={40}
                 className="h-10 w-auto"
               />
-              <span className="text-xl font-bold text-white">HKMF</span>
+              <span className="text-xl font-bold text-white">KMF</span>
             </Link>
             <p className="mt-4 text-sm leading-6 text-slate-400">
-              Hon Kyobe Muhamad Foundation (HKMF) is a community-based organization 
+              Kyobe Muhamad Foundation (KMF) is a community-based organization 
               dedicated to empowering vulnerable communities in Uganda.
             </p>
             <p className="mt-3 text-sm text-slate-400">
@@ -297,7 +297,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3 text-sm text-slate-400">
                 <span className="mt-0.5">📧</span>
-                <a href="mailto:info@hkmf.org" className="hover:text-teal-400 transition">
+                <a href="mailto:info@kmf.org" className="hover:text-teal-400 transition">
                   info@hkmf.org
                 </a>
               </li>
@@ -343,7 +343,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 border-t border-slate-700 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-center text-sm text-slate-500">
-            © {new Date().getFullYear()} Hon Kyobe Muhamad Foundation (HKMF). All rights reserved.
+            © {new Date().getFullYear()} Kyobe Muhamad Foundation (KMF). All rights reserved.
           </p>
           <p className="text-center text-xs text-slate-600">
             Empowering Communities, Transforming Lives.
