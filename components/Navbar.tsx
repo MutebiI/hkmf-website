@@ -129,6 +129,7 @@ export default function Navbar() {
     { name: "Programmes", href: "/programmes" },
     { name: "Partner", href: "/partner" },
     { name: "Contact", href: "/contact" },
+    { name: "Donate", href: "/donate" }
   ];
 
   return (
@@ -174,7 +175,7 @@ export default function Navbar() {
         {/* Donate Button */}
         <div className="hidden md:block">
           <Link
-            href="/#contact"
+            href="/donate"
             className="rounded-lg bg-teal-600 px-5 py-2.5 font-medium text-white transition-all duration-300 hover:bg-teal-700 hover:shadow-lg"
           >
             Donate
@@ -217,7 +218,7 @@ export default function Navbar() {
             </Link>
           ))}
           <Link
-            href="/#contact"
+            href="/donate"
             onClick={() => setOpen(false)}
             className="mt-4 block rounded-lg bg-teal-600 px-4 py-3 text-center font-medium text-white transition hover:bg-teal-700"
           >
