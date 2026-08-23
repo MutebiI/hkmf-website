@@ -41,8 +41,8 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center gap-3">
               <Image
-                src="/images/KMF_logo.jpeg"
-                alt="HKMF Logo"
+                src="/images/HKMF_logo.jpeg"
+                alt="KMF Logo"
                 width={40}
                 height={40}
                 className="h-10 w-auto"
@@ -99,8 +99,8 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3 text-sm text-slate-400">
                 <span className="mt-0.5">📧</span>
-                <a href="mailto:info@kmf.org" className="hover:text-teal-400 transition">
-                  info@hkmf.org
+                <a href="mailto:info@kyobemuhammadfoundation.org" className="hover:text-teal-400 transition">
+                  info@kyobemuhammadfoundation.org
                 </a>
               </li>
               <li className="flex items-start gap-3 text-sm text-slate-400">
