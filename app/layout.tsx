@@ -42,8 +42,8 @@ import FloatingContact from "@/components/FloatingContact";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Hon Kyobe Muhamad Foundation - Empowering Communities, Transforming Lives",
-  description: "HKMF is a community-based organization empowering youth, women, orphans, and street-connected children in Uganda.",
+  title: "Kyobe Muhammad Foundation - Empowering Communities, Transforming Lives",
+  description: "KMF is a community-based organization empowering youth, women, orphans, and street-connected children in Uganda.",
 };
 
 export default function RootLayout({
